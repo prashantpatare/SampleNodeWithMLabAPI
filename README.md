@@ -1,2 +1,0 @@
-# sampleNodeWithMLabAPI
-Created with CodeSandbox
